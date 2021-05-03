@@ -10,19 +10,19 @@
  */
 ```
 
-**@author [authors name]** (luokat ja liittymät)
+**[@author [authors name]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@author)** (luokat ja liittymät)
 
-**@version [verison]** (luokat ja liittymät)
+**[@version [verison]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@version)** (luokat ja liittymät)
 
-**@see [class name]** (luokat ja liittymät) (attribuutit) (methods)
+**[@see [class name]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@see)** (luokat ja liittymät) (attribuutit) (methods)
 
-**@since [version]** (luokat ja liittymät) (attribuutit) (methods)
+**[@since [version]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@version)** (luokat ja liittymät) (attribuutit) (methods)
 
-**@exception [exeption]** (luokat ja liittymät) (methods)
+**[@exception [exeption]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@exception)** (luokat ja liittymät) (methods)
 
-**@debrecated [description]** (luokat ja liittymät) (attribuutit) (methods)
+**[@debrecated [description]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@deprecated)** (luokat ja liittymät) (attribuutit) (methods)
 
-**@param [param name] [description]** (methods)
+**[@param [param name] [description]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@param)** (methods)
 
-**@return [description]** (methods)
+**[@return [description]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@return)** (methods)
 
