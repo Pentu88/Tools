@@ -12,9 +12,9 @@
 
 **[@author [authors name]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@author)** (luokat ja liittymät) [Multiple]
 
-**[@version [verison]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@version)** (luokat ja liittymät) [Multiple]
+**[@version [verison]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@version)** (luokat ja liittymät)
 
-**[@see [class name]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@see)** (luokat ja liittymät) (attribuutit) (methods)
+**[@see [class name]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@see)** (luokat ja liittymät) (attribuutit) (methods) [Multiple]
 
 **[@since [version]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@version)** (luokat ja liittymät) (attribuutit) (methods)
 
