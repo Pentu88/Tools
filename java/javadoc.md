@@ -20,9 +20,9 @@
 
 **[@exception [exeption]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@exception)** (luokat ja liittymät) (methods) Throws [Multiple]
 
-**[@debrecated [description]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@deprecated)** (luokat ja liittymät) (attribuutit) (methods) [Multiple]
+**[@debrecated [description]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@deprecated)** (luokat ja liittymät) (attribuutit) (methods)
 
-**[@param [param name] [description]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@param)** (methods)
+**[@param [param name] [description]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@param)** (methods) [Multiple]
 
 **[@return [description]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@return)** (methods)
 
