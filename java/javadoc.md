@@ -29,21 +29,21 @@ Käyttö: *[luokat ja liittymät](#luokat-ja-liittymät)*, *[attribuutit](#attri
 
 Käyttö: *[luokat ja liittymät](#luokat-ja-liittymät)*, *[attribuutit](#attribuutit)*, *[metodit](#metodit)*
 
-**[@exception [exeption]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@exception)** **[!]** (Throws)
-
-Käyttö: *[luokat ja liittymät](#luokat-ja-liittymät)*, *[metodit](#metodit)*
-
 **[@debrecated [description]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@deprecated)** Määrittelee luokan (tai metodin)  vanhentuneeksi.
 
 Käyttö: *[luokat ja liittymät](#luokat-ja-liittymät)*, *[attribuutit](#attribuutit)*, *[metodit](#metodit)*
 
-**[@param [param name] [description]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@param)** **[!]** Metodin jokaista parametria kohden on sitä kuvaava tagi.
+**[@param](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@param)** **[!]** Metodin jokaista parametria kohden on sitä kuvaava tagi.
 
 Käyttö: *[metodit](#metodit)*
 
-**[@return [description]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@return)** Kuvaa metodin paluu-arvoa.
+**[@return](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@return)** Kuvaa metodin paluu-arvoa.
 
 Käyttö: *[metodit](#metodit)*
+
+**[@exception [exeption]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@exception)** **[!]** (Throws)
+
+Käyttö: *[luokat ja liittymät](#luokat-ja-liittymät)*, *[metodit](#metodit)*
 
 ## Luokat ja liittymät
 Luokkien ja liittymien dokumentoinnissa voi käyttää seuraavia tageja: `@author`, `@version`, `@see`, `@since` sekä `@deprecated`. 
@@ -88,7 +88,7 @@ Metodien dokumentoinnissa voi käyttää seuraavia tageja: `@author`, `@since`, 
     * [Metodin kuvaus]
     *
     * @author [1st author's name]
-    * @param bar [param description]
+    * @param [param name] [param description]
     * @return [return description]
     * @since [version]
     */
