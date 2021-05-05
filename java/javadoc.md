@@ -47,7 +47,7 @@ Käyttö: *[metodit](#metodit)*
 Luokkien ja liittymien dokumentoinnissa voi käyttää seuraavia tageja: `@author`, `@version`, `@see`, `@since` sekä `@deprecated`. 
 ```java
 /**
- * [Luokan, attribuutin tai metodin kuvaus]
+ * [Luokan kuvaus]
  *
  * @author [1st author's name]
  * @author [2nd author's name]
@@ -65,8 +65,32 @@ Luokkien ja liittymien dokumentoinnissa voi käyttää seuraavia tageja: `@autho
 ```
 
 ## Attribuutit
-Attribuuttien dokumentoinnissa voi käyttää seuraavia tageja: `@author`, `@since` sekä `@deprecated`. 
+Attribuuttien dokumentoinnissa voi käyttää seuraavia tageja: `@author`, `@since` sekä `@deprecated`.
+```java
+ public class Luokka{
+   /**
+    * [Attribuutin kuvaus]
+    *
+    * @author [1st author's name]
+    * @since [version]
+    */
+   private String name;
+}
+```
 
 ## Metodit
-Metodien dokumentoinnissa voi käyttää seuraavia tageja: `@author`, `@since`, `@deprecated`, `@param`, `@return` sekä `@exception`. 
+Metodien dokumentoinnissa voi käyttää seuraavia tageja: `@author`, `@since`, `@deprecated`, `@param`, `@return` sekä `@exception`.
+```java
+ public class Luokka{
+   /**
+    * [Metodin kuvaus]
+    *
+    * @author [1st author's name]
+    * @since [version]
+    */
+    public Luokka() {
+        // Do something
+    }
+}
+```
 
