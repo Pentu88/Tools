@@ -10,6 +10,9 @@
  */
 ```
 
+## Lista tageista
+***huom*** "**[!]**" -merkinnällä kuvattuja tageja voi olla useita allekkain.
+
 **[@author](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@author)** **[!]** Määrittää luokan tekijän nimen. 
 
 Käyttö: *[luokat ja liittymät](#luokat-ja-liittymät)*
@@ -39,9 +42,8 @@ Käyttö: *[luokat ja liittymät](#luokat-ja-liittymät)*, *[attribuutit](#attri
 Käyttö: *[metodit](#metodit)*
 
 **[@return [description]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@return)** Kuvaa metodin paluu-arvoa.
-Käyttö: *[metodit](#metodit)*
 
-**[!]** -merkinnällä kuvattuja tageja voi olla useita allekkain.
+Käyttö: *[metodit](#metodit)*
 
 ## Luokat ja liittymät
 Luokkien ja liittymien dokumentoinnissa voi käyttää seuraavia tageja: `@author`, `@version`, `@see`, `@since` sekä `@deprecated`. 
@@ -59,7 +61,7 @@ Luokkien ja liittymien dokumentoinnissa voi käyttää seuraavia tageja: `@autho
  */
  public class Luokka{
     public Luokka() {
-        // Do something
+        // Do things
     }
 }
 ```
@@ -86,10 +88,12 @@ Metodien dokumentoinnissa voi käyttää seuraavia tageja: `@author`, `@since`, 
     * [Metodin kuvaus]
     *
     * @author [1st author's name]
+    * @param foo [param description]
+    * @return [return description]
     * @since [version]
     */
-    public Luokka() {
-        // Do something
+    public String Luokka(int foo) {
+        // Do things
     }
 }
 ```
