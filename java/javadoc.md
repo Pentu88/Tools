@@ -97,4 +97,11 @@ Metodien dokumentoinnissa voi käyttää seuraavia tageja: `@see`, `@since`, `@d
     }
 }
 ```
+## html -tagit muotoilussa
+
+## Dokumentaatio
+Varsinainen html -documentaatio tuotetaan antamalla komentorivillä `javadoc`-komento.
+```
+javadoc [options] [package names] [file names]
+```
 
