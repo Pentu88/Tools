@@ -55,8 +55,8 @@ Luokkien ja liittymien dokumentoinnissa voi käyttää seuraavia tageja: `@autho
  * @author [2nd author's name]
  * @version [verison]
  * @see [class name]
- * @see #[method name]
- * @see [class name]
+ * @see #[method name]([param])
+ * @see #[field name]
  * @since [version]
  */
  public class Luokka{
