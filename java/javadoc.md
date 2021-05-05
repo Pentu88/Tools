@@ -10,7 +10,9 @@
  */
 ```
 
-**[@author](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@author)** (luokat ja liittymät) **[!]** Määrittää luokan tekijän nimen. 
+**[@author](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@author)** **[!]** Määrittää luokan tekijän nimen. 
+
+*[Luokat ja liittymät](#luokat-ja-liittymät)*
 
 **[@version](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@version)** (luokat ja liittymät) Määrittää luokan version, kehittäjä voi päättää versiomerkinnän itse.
 
