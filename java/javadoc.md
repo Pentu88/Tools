@@ -1,4 +1,5 @@
-# javadoc
+# Luokkien documentointi
+
 
 [oracle](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#orderoftags)
 
@@ -98,6 +99,8 @@ Metodien dokumentoinnissa voi käyttää seuraavia tageja: `@see`, `@since`, `@d
 }
 ```
 ## html -tagit muotoilussa
+
+## Katso myös (see also)
 
 ## Dokumentaatio
 Varsinainen html -documentaatio tuotetaan antamalla komentorivillä `javadoc`-komento.
