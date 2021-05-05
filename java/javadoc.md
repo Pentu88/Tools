@@ -12,11 +12,15 @@
 
 **[@author](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@author)** **[!]** Määrittää luokan tekijän nimen. 
 
-*[Luokat ja liittymät](#luokat-ja-liittymät)*
+Käyttö: *[luokat ja liittymät](#luokat-ja-liittymät)*
 
-**[@version](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@version)** (luokat ja liittymät) Määrittää luokan version, kehittäjä voi päättää versiomerkinnän itse.
+**[@version](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@version)** Määrittää luokan version, kehittäjä voi päättää versiomerkinnän itse.
 
-**[@see](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@see)** (luokat ja liittymät) (attribuutit) (methods) **[!]** Määrittää luokat ja metodit dokumentin "katso myös" (see also) -kohtaan. 
+Käyttö: *[luokat ja liittymät](#luokat-ja-liittymät)*
+
+**[@see](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@see)** (luokat ja liittymät) (attribuutit) (methods) **[!]** Määrittää luokat ja metodit dokumentin "katso myös" (see also) -kohtaan.
+
+Käyttö: *[luokat ja liittymät](#luokat-ja-liittymät)*, *[attribuutit](#attribuutit)*, *[metodit]()*
 
 **[@since](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@version)** (luokat ja liittymät) (attribuutit) (methods) Määrittää, mistä versiosta alkaen luokka on ollut mukana luokkakirjastossa
 
