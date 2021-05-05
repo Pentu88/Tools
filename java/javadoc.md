@@ -18,7 +18,7 @@ Käyttö: *[luokat ja liittymät](#luokat-ja-liittymät)*
 
 Käyttö: *[luokat ja liittymät](#luokat-ja-liittymät)*
 
-**[@see](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@see)** (luokat ja liittymät) (attribuutit) (methods) **[!]** Määrittää luokat ja metodit dokumentin "katso myös" (see also) -kohtaan.
+**[@see](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@see)** **[!]** Määrittää luokat ja metodit dokumentin "katso myös" (see also) -kohtaan.
 
 Käyttö: *[luokat ja liittymät](#luokat-ja-liittymät)*, *[attribuutit](#attribuutit)*, *[metodit](#metodit)*
 
