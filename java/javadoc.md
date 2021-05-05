@@ -29,7 +29,7 @@
 **[!]** -merkinnällä kuvattuja tageja voi olla useita allekkain.
 
 ## Luokat ja liittymät
-Luokkien ja liittymien dokumentoinnissa voi käyttää viittä (5) tagia: `@author`, `@version`, `@see`, `@since` sekä `@deprecated`. 
+Luokkien ja liittymien dokumentoinnissa voi käyttää seuraavia tageja: `@author`, `@version`, `@see`, `@since` sekä `@deprecated`. 
 ```java
 /**
  * [Luokan, attribuutin tai metodin kuvaus]
@@ -50,4 +50,8 @@ Luokkien ja liittymien dokumentoinnissa voi käyttää viittä (5) tagia: `@auth
 ```
 
 ## Atribuutit
-Attribuuttien dokumentoinnissa voi käyttää kolmea (3) tagia: @author`, `@since` sekä `@deprecated`. 
+Attribuuttien dokumentoinnissa voi käyttää seuraavia tageja: `@author`, `@since` sekä `@deprecated`. 
+
+## Metodit
+Metodien dokumentoinnissa voi käyttää seuraavia tageja: `@author`, `@since`, `@deprecated`, `@param`, `@return` sekä `@exception`. 
+
