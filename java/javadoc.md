@@ -73,7 +73,7 @@ Attribuuttien dokumentoinnissa voi käyttää seuraavia tageja: `@see`, `@since`
    /**
     * [Attribuutin kuvaus]
     *
-    * @author [1st author's name]
+    * @see [class name]
     * @since [version]
     */
    private String name;
@@ -87,7 +87,6 @@ Metodien dokumentoinnissa voi käyttää seuraavia tageja: `@see`, `@since`, `@d
    /**
     * [Metodin kuvaus]
     *
-    * @author [1st author's name]
     * @param [param name] [param description]
     * @return [return description]
     * @since [version]
