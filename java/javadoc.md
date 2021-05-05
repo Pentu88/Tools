@@ -67,7 +67,7 @@ Luokkien ja liittymien dokumentoinnissa voi käyttää seuraavia tageja: `@autho
 ```
 
 ## Attribuutit
-Attribuuttien dokumentoinnissa voi käyttää seuraavia tageja: `@author`, `@since` sekä `@deprecated`.
+Attribuuttien dokumentoinnissa voi käyttää seuraavia tageja: `@see`, `@since` sekä `@deprecated`.
 ```java
  public class Luokka{
    /**
@@ -81,7 +81,7 @@ Attribuuttien dokumentoinnissa voi käyttää seuraavia tageja: `@author`, `@sin
 ```
 
 ## Metodit
-Metodien dokumentoinnissa voi käyttää seuraavia tageja: `@author`, `@since`, `@deprecated`, `@param`, `@return` sekä `@exception`.
+Metodien dokumentoinnissa voi käyttää seuraavia tageja: `@see`, `@since`, `@deprecated`, `@param`, `@return` sekä `@exception`.
 ```java
  public class Luokka{
    /**
