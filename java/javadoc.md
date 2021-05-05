@@ -20,17 +20,26 @@ Käyttö: *[luokat ja liittymät](#luokat-ja-liittymät)*
 
 **[@see](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@see)** (luokat ja liittymät) (attribuutit) (methods) **[!]** Määrittää luokat ja metodit dokumentin "katso myös" (see also) -kohtaan.
 
-Käyttö: *[luokat ja liittymät](#luokat-ja-liittymät)*, *[attribuutit](#attribuutit)*, *[metodit]()*
+Käyttö: *[luokat ja liittymät](#luokat-ja-liittymät)*, *[attribuutit](#attribuutit)*, *[metodit](#metodit)*
 
-**[@since](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@version)** (luokat ja liittymät) (attribuutit) (methods) Määrittää, mistä versiosta alkaen luokka on ollut mukana luokkakirjastossa
+**[@since](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@version)** Määrittää, mistä versiosta alkaen luokka on ollut mukana luokkakirjastossa.
 
-**[@exception [exeption]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@exception)** (luokat ja liittymät) (methods) Throws **[!]**
+Käyttö: *[luokat ja liittymät](#luokat-ja-liittymät)*, *[attribuutit](#attribuutit)*, *[metodit](#metodit)*
 
-**[@debrecated [description]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@deprecated)** (luokat ja liittymät) (attribuutit) (methods) Määrittelee luokan (tai metodin)  vanhentuneeksi.
+**[@exception [exeption]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@exception)** **[!]** (Throws)
 
-**[@param [param name] [description]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@param)** (methods) **[!]** Metodin jokaista parametria kohden on sitä kuvaava tagi.
+Käyttö: *[luokat ja liittymät](#luokat-ja-liittymät)*, *[metodit](#metodit)*
 
-**[@return [description]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@return)** (methods) Kuvaa metodin paluu-arvoa.
+**[@debrecated [description]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@deprecated)** Määrittelee luokan (tai metodin)  vanhentuneeksi.
+
+Käyttö: *[luokat ja liittymät](#luokat-ja-liittymät)*, *[attribuutit](#attribuutit)*, *[metodit](#metodit)*
+
+**[@param [param name] [description]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@param)** **[!]** Metodin jokaista parametria kohden on sitä kuvaava tagi.
+
+Käyttö: *[metodit](#metodit)*
+
+**[@return [description]](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#@return)** Kuvaa metodin paluu-arvoa.
+Käyttö: *[metodit](#metodit)*
 
 **[!]** -merkinnällä kuvattuja tageja voi olla useita allekkain.
 
