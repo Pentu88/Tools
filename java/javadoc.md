@@ -88,12 +88,13 @@ Metodien dokumentoinnissa voi käyttää seuraavia tageja: `@author`, `@since`, 
     * [Metodin kuvaus]
     *
     * @author [1st author's name]
-    * @param foo [param description]
+    * @param bar [param description]
     * @return [return description]
     * @since [version]
     */
-    public String Luokka(int foo) {
+    public String foo(int bar) {
         // Do things
+        return "number: " + bar;
     }
 }
 ```
