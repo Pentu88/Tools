@@ -55,7 +55,7 @@ Luokkien ja liittymien dokumentoinnissa voi käyttää seuraavia tageja: `@autho
 }
 ```
 
-## Atribuutit
+## Attribuutit
 Attribuuttien dokumentoinnissa voi käyttää seuraavia tageja: `@author`, `@since` sekä `@deprecated`. 
 
 ## Metodit
