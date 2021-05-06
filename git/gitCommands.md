@@ -18,17 +18,17 @@ git clone [remote URL]
 ```
 ##
 
-**[`git add`](https://git-scm.com/docs/git-add)** lisää muutokset "*staging*"-alueelle. Tiedostot tulee siirtää "staging"-aleuelle, jotta ne voi lisätä repoon.
+**[`git add`](https://git-scm.com/docs/git-add)** lisää muutokset *staging*-alueelle. Tiedostot tulee siirtää *staging*-aleuelle, jotta ne voi lisätä repoon.
   
 **Käyttö:**
 ```
 git add .
-git add file(or folder)-name
+git add [file(or folder) name]
 git add -p
 ```
 ##
 
-**[`git status`](https://git-scm.com/docs/git-status)** esittää "repon" nykyisen tilan. Mikäli muutoksia on lisätty "staging"-alueelle, mutta niitä ei ole vielä "commit"oitu, muutokset näkyvät status-komennolla. 
+**[`git status`](https://git-scm.com/docs/git-status)** esittää "repon" nykyisen tilan. Mikäli muutoksia on lisätty *staging*-alueelle, mutta niitä ei ole vielä "commit"oitu, muutokset näkyvät status-komennolla. 
 
 ```
 git status
