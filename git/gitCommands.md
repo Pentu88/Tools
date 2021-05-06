@@ -33,11 +33,9 @@ git add -p
 ```
 git status
 ```
-
-Kehitystyö tapahtuu käytännössä viemällä muutoksia versionhallintaan 
 ##
 
-**[`git commit`](https://git-scm.com/docs/git-commit)** vie "staging"-alueella (ks. `git add`) olevat muutokset versionhallintaan ja luo repositorion tallennuspisteen, "commitin", mikä on eräänlainen kuvaus repositorioon tehdyistä muutoksista. Näihin tallennuspisteisiin, "commit"teihin voi palata tarpeenvaatiessa myöhemmin yksillöllisen ID:n avulla. Hyvä käytäntö on sisällyttää jokaiseen committiin viesti, missä selitetään tehdyt muutokset. [[Ohje]](https://github.com/erlang/otp/wiki/writing-good-commit-messages) hyvän commit-viestin kirjoittamiseksi.
+**[`git commit`](https://git-scm.com/docs/git-commit)** vie *staging*-alueella (ks. `git add`) olevat muutokset versionhallintaan ja luo repositorion tallennuspisteen, *commit*in, mikä on eräänlainen kuvaus repositorioon tehdyistä muutoksista. Näihin tallennuspisteisiin, *commit*teihin voi palata tarpeenvaatiessa myöhemmin yksillöllisen ID:n avulla. Hyvä käytäntö on sisällyttää jokaiseen committiin viesti, missä selitetään tehdyt muutokset. [[Ohje]](https://github.com/erlang/otp/wiki/writing-good-commit-messages) hyvän commit-viestin kirjoittamiseksi.
 
 **Käyttö:**
 ```
