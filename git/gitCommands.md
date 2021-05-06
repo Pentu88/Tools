@@ -9,7 +9,7 @@
 ```
 git init
 ```
-***
+##
 
 **[`git clone`](https://git-scm.com/docs/git-clone)** luo paikallisen kopion olemassa olevasta etärepositoriosta, voit käyttää tätä komentoa kopioidaksesi tai lataamalla repon tietokoneellesi.
 
