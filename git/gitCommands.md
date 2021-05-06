@@ -53,7 +53,7 @@ git branch -d [branch name]
 
 **[`git checkout`](https://git-scm.com/docs/git-checkout)** siirtyy toiseen kehityshaaraan.
 
-* `-b [new branch]` luo uuden `<new branch>*` haaran ja siirtyy siihen.
+* `-b [new branch name]` luo uuden `<new branch name>` haaran ja siirtyy siihen.
 
 **Käyttö:**
 ```
