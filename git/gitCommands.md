@@ -28,7 +28,7 @@ git add -p
 ```
 ##
 
-**[`git status`](https://git-scm.com/docs/git-status)** esittää "repon" nykyisen tilan. Mikäli muutoksia on lisätty *staging*-alueelle, mutta niitä ei ole vielä "commit"oitu, muutokset näkyvät status-komennolla. 
+**[`git status`](https://git-scm.com/docs/git-status)** esittää "repon" muutoksista nykyisen tilan. Mikäli muutoksia on lisätty *staging*-alueelle, mutta niitä ei ole vielä "commit"oitu, muutokset näkyvät `status`-komennolla. 
 
 ```
 git status
