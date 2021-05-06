@@ -51,8 +51,11 @@ git branch [branch name]
 git branch -d [branch name]
 ```
 
-**[`git checkout`](https://git-scm.com/docs/git-checkout)** siirtyy toiseen kehityshaaraan. Käytettäessä lippua `-b` komennossa, luodaan uuai haara ja siirrytään siihen.
+**[`git checkout`](https://git-scm.com/docs/git-checkout)** siirtyy toiseen kehityshaaraan.
 
+* `-b [new branch]` luo uuden `<new branch>*` haaran ja siirtyy siihen.
+
+**Käyttö:**
 ```
 git checkout [branch name]
 git checkout -b [new branch name]
