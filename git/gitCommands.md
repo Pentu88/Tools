@@ -44,6 +44,8 @@ git commit -m "[commit msg]"
 
 **[`git branch`](https://git-scm.com/docs/git-branch)** luo uuden versio-haaran nykyiseen haaraan. Uuteen haaraan voi tehdä muutoksia, mitkä eivät näy toisiin versiohaaroihin. Komennolla voi myös poistaa minkä tahansa olemassa olevan haaran tai tarkistella haaroja paikallisesta repositoriosta.
 
+* `-d [branch name]` poistaa `<branch name>`-haaran.
+
 **Käyttö:**
 ```
 git branch
@@ -53,7 +55,7 @@ git branch -d [branch name]
 
 **[`git checkout`](https://git-scm.com/docs/git-checkout)** siirtyy toiseen kehityshaaraan.
 
-* `-b [new branch name]` luo uuden `<new branch name>` haaran ja siirtyy siihen.
+* `-b [new branch name]` luo uuden `<new branch name>`-haaran ja siirtyy siihen.
 
 **Käyttö:**
 ```
