@@ -152,4 +152,4 @@ Gradle projektissa ohjelman lähdekoodi sijoitetaan hakemisto-polkuun *src/main/
 ```
 
 ## Lähteet
-* [OhTu - Gradle](https://ohjelmistotuotanto-hy-avoin.github.io/gradle/) - Helsingin yliopiston *DEFA*-kurssi materiaali
+* [HY / OhTu](https://ohjelmistotuotanto-hy-avoin.github.io/) - Helsingin yliopiston *DEFA*-kurssi materiaali, mm. [Gradle](https://ohjelmistotuotanto-hy-avoin.github.io/gradle/)
