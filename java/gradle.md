@@ -45,11 +45,13 @@ plugins {
 ```
 gradle build
 ``` 
+##
 
 `clean` poistaa *build*-hakemiston sisältöineen.
 ```
 gradle clean
 ``` 
+##
 
 `test` suorittaa sovellukseen liittyvät testit.
 ```
@@ -71,7 +73,6 @@ jar {
 }
 ```
 
-
 Luotu *jar*-tiedosto suoritetaan `java -jar [file name].jar`-komennolla, hakemistossa, jossa ko. tiedosto on.
 
 **[application-plugin](https://docs.gradle.org/current/userguide/application_plugin.html)**  otetaan käyttöön lisäämällä *build.gradle*-tiedostoon, *plugins*-osioon rivi `id 'application'`.\
@@ -81,6 +82,7 @@ application {
     mainClass = 'Main'
 }
 ```
+##
 
 <a id="tasks-application">**Taskit - application-plugin**</a>
 
@@ -99,6 +101,7 @@ run {
     standardInput = System.in
 }
 ```
+##
 
 **[jaCoCo-plugin](https://docs.gradle.org/current/userguide/jacoco_plugin.html#gsc.tab=0)** otetaan käyttöön lisäämällä *build.gradle*-tiedostoon, *plugins*-osioon rivi `id 'jacoco'`.
 
@@ -111,6 +114,7 @@ run {
 $ gradle test jacocoTestReport
 ```
 Testikattavuus-raportti on generoitu *index.html*-tiedostoon, hakemistossa *build/reports/jacoco/test/html/*
+##
 
 ## Riippuvuudet (dependencies)
 Käytännössä riippuvuudet ovat jar-paketteja, jotka sisältävät käytettävien apukirjastojen koodin. 
