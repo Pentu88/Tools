@@ -58,6 +58,7 @@ gradle clean
 gradle test
 gradle test jacocoTestReport
 ```
+##
 
 `jar` paketoi koodista *jar*-tiedoston.
 ```
