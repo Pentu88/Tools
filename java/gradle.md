@@ -82,7 +82,6 @@ application {
     mainClass = 'Main'
 }
 ```
-##
 
 <a id="tasks-application">**Taskit - application-plugin**</a>
 
@@ -114,7 +113,6 @@ run {
 $ gradle test jacocoTestReport
 ```
 Testikattavuus-raportti on generoitu *index.html*-tiedostoon, hakemistossa *build/reports/jacoco/test/html/*
-##
 
 ## Riippuvuudet (dependencies)
 Käytännössä riippuvuudet ovat jar-paketteja, jotka sisältävät käytettävien apukirjastojen koodin. 
