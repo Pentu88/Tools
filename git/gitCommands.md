@@ -43,6 +43,14 @@ git commit -m "[commit msg]"
 ```
 ##
 
+**[`git log`](https://git-scm.com/docs/git-log)** listaa luotuja "commit"teja.
+
+**Käyttö:**
+```
+git log
+```
+##
+
 **[`git branch`](https://git-scm.com/docs/git-branch)** luo uuden versio-haaran nykyiseen haaraan. Uuteen haaraan voi tehdä muutoksia, mitkä eivät näy toisiin versiohaaroihin. Komennolla voi myös poistaa minkä tahansa olemassa olevan haaran tai tarkistella haaroja paikallisesta repositoriosta.
 
 * `-d [branch name]` poistaa `<branch name>`-haaran.
