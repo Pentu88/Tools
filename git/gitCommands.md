@@ -49,6 +49,18 @@ git commit -m "[commit msg]"
 ```
 git log
 ```
+
+##
+
+**[`git stash`](https://git-scm.com/docs/)** descript
+
+**Käyttö:**
+```
+git stash
+git stash -u
+git stash pop
+```
+
 ##
 
 **[`git branch`](https://git-scm.com/docs/git-branch)** luo uuden versio-haaran nykyiseen haaraan. Uuteen haaraan voi tehdä muutoksia, mitkä eivät näy toisiin versiohaaroihin. Komennolla voi myös poistaa minkä tahansa olemassa olevan haaran tai tarkistella haaroja paikallisesta repositoriosta.
@@ -71,6 +83,34 @@ git branch -d [branch name]
 ```
 git checkout [branch name]
 git checkout -b [new branch name]
+```
+
+##
+
+**[`git push`](https://git-scm.com/docs/)** descript
+
+**Käyttö:**
+```
+git push (-u)
+```
+
+##
+
+**[`git pull`](https://git-scm.com/docs/)** descript
+
+**Käyttö:**
+```
+git pull
+```
+
+
+##
+
+**[`git fetch`](https://git-scm.com/docs/)** descript
+
+**Käyttö:**
+```
+git fetch
 ```
 
 ## TODO Lisättäviä komentoja:
