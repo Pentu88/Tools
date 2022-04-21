@@ -52,7 +52,7 @@ git log
 
 ##
 
-**[`git stash`](https://git-scm.com/docs/)** descript
+**[`git stash`](https://git-scm.com/docs/stash)** asettaa paikallisesti lisätyt muutokset syrjään Gitin seuraamissa tiedostoissa.
 
 **Käyttö:**
 ```
