@@ -99,14 +99,14 @@ git checkout -b [new branch name]
 **[`git push`](https://git-scm.com/docs/)** päivittää kaikki paikalliseen repositoryyn viedyt (kts. `commit`) muutokset lähettämällä ne määriteltyyn etärepositoryn haaraan. 
 
 <details>
-  <summary>`-u` / `--set-upstream`</summary>
-  asettaa seurannan etähaaraan, mikä helpottaa jatkossa komennon käyttöä.
+  <summary>kahvat</summary>
+  `-u` / `--set-upstream` asettaa seurannan etähaaraan, mikä helpottaa jatkossa komennon käyttöä.
 </details>
 
 **Käyttö:**
 ```
 git push origin <haara>
-git push origin <haara> -u
+git push -u <etärepository> <paikallinen-haara>:<etähaara>
 git push
 ```
 
