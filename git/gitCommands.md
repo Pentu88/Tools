@@ -96,12 +96,15 @@ git checkout -b [new branch name]
 
 ##
 
-**[`git push`](https://git-scm.com/docs/)** päivittää kaikki tehdyt muutokset määriteltyyn etärepositoryn haaraan lähettämällä paikallisen repositoryn. 
+**[`git push`](https://git-scm.com/docs/)** päivittää kaikki paikalliseen repositoryyn viedyt (kts. commit) muutokset lähettämällä ne määriteltyyn etärepositoryn haaraan. 
 
 **Käyttö:**
 ```
 git push  origin <haara>
 ```
+
+>![WARNING]
+>Ennen tätä komentoa kannattaa päivittää (kts. pull tai push) etärepositoryn mahdolliset muutokset paikalliseen repositoryyn.
 
 <details>
   <summary>U -flag</summary>
