@@ -100,11 +100,11 @@ git checkout -b [new branch name]
 
 **Käyttö:**
 ```
-git push  origin <haara>
+git push origin <haara>
 ```
 
->![WARNING]
->Ennen tätä komentoa kannattaa päivittää (kts. pull tai push) etärepositoryn mahdolliset muutokset paikalliseen repositoryyn.
+> [!WARNING]
+> Ennen tätä komentoa kannattaa päivittää (kts. pull tai push) etärepositoryn mahdolliset muutokset paikalliseen repositoryyn.
 
 <details>
   <summary>U -flag</summary>
