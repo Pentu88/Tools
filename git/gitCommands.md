@@ -3,7 +3,7 @@
 
 > [!NOTE]
 > Testi
-> (NOTE, IMPORTANT, WARNING)[^1]
+> (NOTE, IMPORTANT, WARNING)[^2]
 
 <details>
   <summary>Test</summary>
@@ -96,7 +96,7 @@ git checkout -b [new branch name]
 
 ##
 
-**[`git push`](https://git-scm.com/docs/)** päivittää kaikki paikalliseen repositoryyn viedyt (kts. `commit`) muutokset lähettämällä ne määriteltyyn etärepositoryn haaraan. 
+**[`git push`](https://git-scm.com/docs/git-push)** päivittää kaikki paikalliseen repositoryyn viedyt muutokset (kts. `commit`) lähettämällä ne määriteltyyn etärepositoryn haaraan. 
 
 * `-u` / `--set-upstream` asettaa seurannan etähaaraan, mikä helpottaa jatkossa komennon käyttöä.
 
@@ -109,10 +109,10 @@ git push
 ```
 
 > [!IMPORTANT]
-> Oikeudet päivittää ko. repoa! [^2]
+> Varmista, että sinulla on oikeudet päivittä ko. etärepositorya [^1]
 
 > [!WARNING]
-> Ennen `push` komennon käyttöä kannattaa päivittää (kts. `pull` tai `fetch`) etärepositoryn mahdolliset muutokset paikalliseen repositoryyn.
+> Ennen `push` komennon käyttöä kannattaa päivittää (kts. `pull` tai `fetch`) etärepositoryn mahdolliset muutokset paikalliseen repositoryyn
 
 
 ##
@@ -149,5 +149,5 @@ git fetch
 
  **[`git `]()**
 
-[^1]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#footnotes
-[^2]: Luo SSH -avain. [ohje](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/tehtavat/viikko1.md#julkinen-avain)
+[^2]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#footnotes
+[^1]: Luo SSH -avain. [ohje](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/tehtavat/viikko1.md#julkinen-avain)
