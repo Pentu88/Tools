@@ -117,7 +117,7 @@ git push
 
 ##
 
-**[`git pull`](https://git-scm.com/docs/)** descript
+**[`git pull`](https://git-scm.com/docs/git-pull)** hakee ja yhdistää etärepositoryn uudet muutokset paikallisen repositoryn nykyiseen työhaaraan.
 
 **Käyttö:**
 ```
