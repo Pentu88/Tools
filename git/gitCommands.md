@@ -1,6 +1,11 @@
 # Lyhyt git muistio
 [git documentaatio](https://git-scm.com/docs/)
 
+<details>
+  <summary>Test</summary>
+  Spoiler text
+</details>
+
 
 ## Hyödyllisiä komentoja
 
