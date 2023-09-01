@@ -1,6 +1,10 @@
 # Lyhyt git muistio
 [git documentaatio](https://git-scm.com/docs/)
 
+> [!NOTE]
+> Testi
+> (NOTE, IMPORTANT, WARNING)[^1]
+
 <details>
   <summary>Test</summary>
   Spoiler text
@@ -132,3 +136,5 @@ git fetch
 <link https://vm.utu.fi/document/fi_pieni-git-opas.pdf>
 
  **[`git `]()**
+
+[^1]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#footnotes
