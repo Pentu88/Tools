@@ -104,7 +104,7 @@ git push origin <haara>
 ```
 
 > [!WARNING]
-> Ennen tätä komentoa kannattaa päivittää (kts. pull tai push) etärepositoryn mahdolliset muutokset paikalliseen repositoryyn.
+> Ennen `push` komennon käyttöä kannattaa päivittää (kts. `pull` tai `push`) etärepositoryn mahdolliset muutokset paikalliseen repositoryyn.
 
 <details>
   <summary>U -flag</summary>
