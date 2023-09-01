@@ -109,7 +109,7 @@ git push
 ```
 
 > [!IMPORTANT]
-> Oikeudet päivittää ko. repoa!
+> Oikeudet päivittää ko. repoa! [^2]
 
 > [!WARNING]
 > Ennen `push` komennon käyttöä kannattaa päivittää (kts. `pull` tai `fetch`) etärepositoryn mahdolliset muutokset paikalliseen repositoryyn.
@@ -150,3 +150,4 @@ git fetch
  **[`git `]()**
 
 [^1]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#footnotes
+[^2]: Luo SSH -avain. [ohje](https://github.com/ohjelmistotekniikka-hy/syksy-2020/blob/main/tehtavat/viikko1.md#julkinen-avain)
